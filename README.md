@@ -1,7 +1,7 @@
 ---
 
 # 🌟 About Me:
-👋 Hi, I'm Osamah! I'm a passionate Software Development Student currently studying at Istanbul Aydın University. I love exploring the world of coding and technology while continuously improving my skills. 💻.<br> 
+👋 Hi, I'm Osamah! I'm a passionate Software Development Student currently studying at Istanbul Aydın University. I love exploring the world of coding and technology while continuously improving my skills..<br> 
 
 
 # 💻 Tech Stack:
